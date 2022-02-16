@@ -1,1 +1,1 @@
-# web-dev-course
+# web-dev-course.github.io
